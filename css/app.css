@@ -1,7 +1,27 @@
-
+html, body {
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    margin:0;
+}
 
 .header-name{
     text-align: center;
     background: #222A35;
-    color: #fff;
+    color: #F39723;
+    padding: 30px;
+}
+
+.bg-image {
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    height: 800px;
+    padding: 0px;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.3);
+    padding-top: 200px;
 }
