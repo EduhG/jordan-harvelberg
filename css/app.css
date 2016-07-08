@@ -32,3 +32,47 @@ html, body {
 .bg-details > .columns {
     text-align: center;
 }
+
+.bg-locations {
+    padding-top: 50px;
+}
+
+.bg-locations p{
+    color: #ddd;
+    font-size: 25px;
+}
+
+.bg-locations i{
+    padding: 20px;
+}
+
+.more-details {
+    text-align: center;
+    padding: 50px;
+}
+
+.more-details a{
+    text-align: center;
+    padding: 25px 40px;
+    font-size: 30px;
+    border-radius: 50px;
+    background: #222A35;
+    color: #F39723;
+    font-weight: bolder;
+}
+
+.f-name {
+    font-size: 60px;
+    color: #eee;
+    font-weight: bolder;
+    padding: 0px;
+    margin: 0px;
+}
+
+.loc {
+    font-size: 40px;
+    color: #eee;
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 40px;
+}
