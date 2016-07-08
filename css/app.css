@@ -76,3 +76,19 @@ html, body {
     margin: 0px;
     padding-bottom: 40px;
 }
+
+.bg-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    left: 15px;
+    background: rgba(0,0,0, 0.4);
+}
+
+.bg-footer > .columns {
+    padding: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
