@@ -13,13 +13,16 @@ html, body {
 }
 
 .bg-image {
-    background: url(../images/bg.jpg);
+/*    background: url(../images/bg.jpg);*/
     background-size: cover;
-    height: 800px;
+    height: auto;
     padding: 0px;
+    position: relative;
 }
 
 .content {
+    position: absolute;
+    top: 0;
     height: 100%;
     width: 100%;
     background: rgba(255, 255, 255, 0.3);
