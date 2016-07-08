@@ -28,3 +28,7 @@ html, body {
     background: rgba(255, 255, 255, 0.3);
     padding-top: 200px;
 }
+
+.bg-details > .columns {
+    text-align: center;
+}
