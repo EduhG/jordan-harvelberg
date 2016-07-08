@@ -90,5 +90,27 @@ html, body {
 .bg-footer > .columns {
     padding: 30px;
     text-align: center;
-    padding-top: 50px;
+    border-left: 1px solid grey;
+}
+
+.bg-footer > .columns:first-of-type {
+    border-left: 0px solid #ddd;
+}
+
+.bg-footer p {
+    color: #ddd;
+    font-size: 25px;
+    padding: 0;
+    margin: 0px;
+}
+
+.bg-footer i{
+    padding: 20px;
+}
+
+.number {
+    font-weight: bolder;
+}
+.fol-text {
+    margin-left: 120px !important;
 }
